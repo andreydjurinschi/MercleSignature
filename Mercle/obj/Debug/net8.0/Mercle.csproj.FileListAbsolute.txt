@@ -1,0 +1,15 @@
+C:\Users\Calculator\source\repos\Mercle\Mercle\Mercle\bin\Debug\net8.0\Mercle.exe
+C:\Users\Calculator\source\repos\Mercle\Mercle\Mercle\bin\Debug\net8.0\Mercle.deps.json
+C:\Users\Calculator\source\repos\Mercle\Mercle\Mercle\bin\Debug\net8.0\Mercle.runtimeconfig.json
+C:\Users\Calculator\source\repos\Mercle\Mercle\Mercle\bin\Debug\net8.0\Mercle.dll
+C:\Users\Calculator\source\repos\Mercle\Mercle\Mercle\bin\Debug\net8.0\Mercle.pdb
+C:\Users\Calculator\source\repos\Mercle\Mercle\Mercle\obj\Debug\net8.0\Mercle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Calculator\source\repos\Mercle\Mercle\Mercle\obj\Debug\net8.0\Mercle.AssemblyInfoInputs.cache
+C:\Users\Calculator\source\repos\Mercle\Mercle\Mercle\obj\Debug\net8.0\Mercle.AssemblyInfo.cs
+C:\Users\Calculator\source\repos\Mercle\Mercle\Mercle\obj\Debug\net8.0\Mercle.csproj.CoreCompileInputs.cache
+C:\Users\Calculator\source\repos\Mercle\Mercle\Mercle\obj\Debug\net8.0\Mercle.sourcelink.json
+C:\Users\Calculator\source\repos\Mercle\Mercle\Mercle\obj\Debug\net8.0\Mercle.dll
+C:\Users\Calculator\source\repos\Mercle\Mercle\Mercle\obj\Debug\net8.0\refint\Mercle.dll
+C:\Users\Calculator\source\repos\Mercle\Mercle\Mercle\obj\Debug\net8.0\Mercle.pdb
+C:\Users\Calculator\source\repos\Mercle\Mercle\Mercle\obj\Debug\net8.0\Mercle.genruntimeconfig.cache
+C:\Users\Calculator\source\repos\Mercle\Mercle\Mercle\obj\Debug\net8.0\ref\Mercle.dll

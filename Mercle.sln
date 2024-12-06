@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mercle", "Mercle\Mercle.csproj", "{DC789139-6864-47A7-8FFF-9E6E2C1B6087}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC789139-6864-47A7-8FFF-9E6E2C1B6087}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC789139-6864-47A7-8FFF-9E6E2C1B6087}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC789139-6864-47A7-8FFF-9E6E2C1B6087}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC789139-6864-47A7-8FFF-9E6E2C1B6087}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63B5BC4E-C3AC-4359-82C2-2C8E21C7ED06}
+	EndGlobalSection
+EndGlobal
